@@ -7,4 +7,4 @@ Include:
 - data structure and algorithm
 - others
 
- 
+Thanks. 
